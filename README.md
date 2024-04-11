@@ -3,6 +3,7 @@
 
 - <b>Internal Security Audit</b>
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
+  - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
  
 <h2> Certifications:</h2>
 
