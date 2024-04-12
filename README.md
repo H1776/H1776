@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit</b>
