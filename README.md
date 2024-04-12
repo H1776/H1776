@@ -1,12 +1,12 @@
 <h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring IT/Cybersecurity Professional</a>
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Internal Security Audit</b>
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
   - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
   - [Incident Report: Network Attacks](https://github.com/H1776/Incident-Report-Network-Attacks)
  
-<h2> Certifications:</h2>
+<h2> Certifications</h2>
 
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/FN2CXJD92Q98) <br />
   
@@ -17,7 +17,7 @@
   - [Big Data 101](https://courses.cognitiveclass.ai/certificates/ceb8624166ff4c51b8f4a47730f8ec01)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="SoochHarsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
