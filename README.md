@@ -1,5 +1,5 @@
 <h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring IT/Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Internal Security Audit</b>
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
