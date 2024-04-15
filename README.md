@@ -6,6 +6,7 @@
   - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
   - [Incident Report: Network Attacks](https://github.com/H1776/Incident-Report-Network-Attacks)
   - [Incident Report: OS Hardening](https://github.com/H1776/Incident-Report-OS-Hardening)
+  - [Incident Report: Analysis of Network Hardening](https://github.com/H1776/Incident-Report-Analysis-of-Network-Hardening)
  
 <h2> Certifications</h2>
 
