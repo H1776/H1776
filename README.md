@@ -5,6 +5,7 @@
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
   - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
   - [Incident Report: Network Attacks](https://github.com/H1776/Incident-Report-Network-Attacks)
+  - [Incident Report: OS Hardening](https://github.com/H1776/Incident-Report-OS-Hardening)
  
 <h2> Certifications</h2>
 
