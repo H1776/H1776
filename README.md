@@ -1,7 +1,7 @@
 <h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Projects</h2>
 
-- <b>Internal Security Audit</b>
+
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
   - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
   - [Incident Report: Network Attacks](https://github.com/H1776/Incident-Report-Network-Attacks)
