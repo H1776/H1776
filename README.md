@@ -1,13 +1,16 @@
 <h1>Hi, I'm Harshdeep! <br/><a href="https://github.com/H1776">Student and Aspiring IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Projects</h2>
 
-
+Cybersecurity:<br />
   - [Security Audit Lab](https://github.com/H1776/SecurityAuditLab)
   - [Incident Report: NIST CSF for Network Security](https://github.com/H1776/Incident-Report-NIST-Cybersecurity-Framework-for-Network-Security)
   - [Incident Report: Network Traffic Analysis](https://github.com/H1776/Incident-Report-Network-Traffic-Analysis)
   - [Incident Report: Network Attacks](https://github.com/H1776/Incident-Report-Network-Attacks)
   - [Incident Report: OS Hardening](https://github.com/H1776/Incident-Report-OS-Hardening)
   - [Incident Report: Analysis of Network Hardening](https://github.com/H1776/Incident-Report-Analysis-of-Network-Hardening)
+
+Active Directory:<br />
+- [Creating and Linking GPOs](https://github.com/H1776/Creating-and-Linking-Group-Policy-Objects-GPO-in-Active-Directory)
  
 <h2> Certifications</h2>
 
